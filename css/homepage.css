@@ -1,0 +1,33 @@
+body {
+    background-color:#3ba9ad;
+    background-image:url(/portfolio/images/plaidtastico-plaid-design.png);   
+/*    background-size:contain;*/
+    background-size:cover;
+    height:50%;
+/*    width: 100%;*/
+    background-repeat:no-repeat;
+}
+
+h1{
+    font-size: 94px;
+    color: #fff;
+
+}
+
+
+.blue-nav{
+    background-color: rgba(50, 67, 78, 0.49);
+    width: 100%;
+    height: 60px;
+    
+}
+
+.blue-nav h2 {
+  font-size: 30px;
+    color: #fff;
+
+}
+
+.carousel carousel-inner{
+max-height: 400px;
+}
