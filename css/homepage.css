@@ -79,7 +79,14 @@ position: relative;
  background: rgba(50, 67, 78, 0);
 }
 
+.btn-lg a {
+color: #fff;
+}
 
+.btn-lg a:hover {
+    color: #3ba9ad;
+    text-decoration: none;
+}
 
 
 body {
