@@ -14,11 +14,16 @@ h1{
     font-family: gillsans, sans-serif; 
 
 }
+h5{
+    font-size: 30px;
+    color: #fff;
+    font-family: gillsans, sans-serif; 
 
+}
 p{
     font-size: 18px;
     color:#fff;
-    font-family: gillsans, sans-serif;
+    font-family: franklingothic, sans-serif;
 }
 h4{
     font-size: 70px;
@@ -37,7 +42,7 @@ h4{
 .blue-nav h2 {
   font-size: 30px;
     color: #fff;
-    font-family: franklingothic, gillsans; 
+    font-family: gillsans; 
 
 }
 
@@ -87,6 +92,35 @@ color: #fff;
     color: #3ba9ad;
     text-decoration: none;
 }
+
+
+
+.btn-main,
+.btn-group-main> .btn {
+  padding: 0px 10px;
+  font-size: 50px;
+  line-height: 1.33;
+  border-radius: 0px;
+    color: #fff;
+    font-family: gillsans, sans-serif;
+    color: #fff;
+ background: rgba(50, 67, 78, 0);
+}
+
+.btn-main a {
+color: #fff;
+}
+
+.btn-main a:hover {
+    color: #3ba9ad;
+    text-decoration: none;
+
+
+
+
+
+
+
 
 
 body {
