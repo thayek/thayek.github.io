@@ -140,3 +140,8 @@ body {
 footer {
 	margin: 50px 0;
 }
+
+.carousel-inner {
+max-height: 500px;
+
+}
