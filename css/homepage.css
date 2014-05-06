@@ -58,9 +58,9 @@ h4{
     font-family: gillsans; 
 
 }
-.carousel carousel-inner{
-max-height: 950px;
-max-width: 1050px;
+.carousel .carousel-inner{
+max-height: 1050px;
+max-width: 1350px;
 }
 
 }
