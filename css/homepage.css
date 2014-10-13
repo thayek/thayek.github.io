@@ -21,9 +21,10 @@ h5{
 
 }
 p{
-    font-size: 18px;
+    font-size: 16px;
     color:#fff;
     font-family: franklingothic, sans-serif;
+    line-height: 1.4em;
 }
 
 .col-lg-6{
